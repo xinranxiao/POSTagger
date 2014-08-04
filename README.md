@@ -19,5 +19,6 @@ EX | existential | there, there's
 FW | foreign word | dolce, ersatz, esprit, quo, maitre
 
 App is currently hosted at: http://pos-tagger.herokuapp.com/
+(endpoint: "api/v1/tagger", query param "?value=")
 
 
