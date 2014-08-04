@@ -10,6 +10,7 @@ For the training data, we use the [Brown corpus](http://en.wikipedia.org/wiki/Br
 Here are some examples of tags and their expansions:
 
 Tag | Meaning | Examples
+---- | ------- | --------------
 ADJ | adjective | new, good, high, special, big, local
 ADV | adverb | really, already, still, early, now
 CNJ | conjunction | and, or, but, if, while, although
