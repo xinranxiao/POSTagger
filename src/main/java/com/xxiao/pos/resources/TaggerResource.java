@@ -1,13 +1,11 @@
 package com.xxiao.pos.resources;
 
-import com.google.common.base.Preconditions;
 import com.google.inject.Inject;
 import com.xxiao.pos.models.TaggingResult;
 import com.xxiao.pos.tagger.POSTagger;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
-import javax.ws.rs.core.Response;
 
 /**
  * Created by xxiao on 8/2/14.
