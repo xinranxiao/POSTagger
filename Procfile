@@ -1,1 +1,1 @@
-web    java $JAVA_OPTS -Ddw.http.port=$PORT -Ddw.http.adminPort=$PORT -jar POSTagger/target/pos-tagger-1.0-SNAPSHOT server POSTagger/src/main/resources/POSTagger.yml
+web    java $JAVA_OPTS -Ddw.http.port=$PORT -Ddw.http.adminPort=$PORT -jar POSTagger/target/pos-tagger-1.0-SNAPSHOT.jar server POSTagger/src/main/resources/POSTagger.yml
