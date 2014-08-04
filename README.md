@@ -21,4 +21,4 @@ FW | foreign word | dolce, ersatz, esprit, quo, maitre
 App is currently hosted at: http://pos-tagger.herokuapp.com/
 (endpoint: "api/v1/tagger", query param "?value=")
 
-
+Example: http://pos-tagger.herokuapp.com/api/v1/tagger?value=hello%20my%20name%20is%20xinran
